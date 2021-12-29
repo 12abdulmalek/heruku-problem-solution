@@ -1,0 +1,5 @@
+git  remote rm heroku
+Programming Hero9:59 PM
+git remote add heroku git@heroku.com:project(full url).git
+Programming Hero10:01 PM
+heroku keys:add
